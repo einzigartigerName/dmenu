@@ -24,3 +24,8 @@ Afterwards enter the following command to build and install dmenu2
 Running dmenu2
 -------------
 See the man page for details.
+
+Changes by me
+------------
+* changed colors
+* modified lineheight
