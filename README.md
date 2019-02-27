@@ -27,3 +27,4 @@ Changes applied
 -------------
 * changed colors
 * changed height
+* [fuzzymatch](https://tools.suckless.org/dmenu/patches/fuzzymatch/)
