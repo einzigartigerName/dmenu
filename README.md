@@ -25,7 +25,7 @@ Running dmenu2
 -------------
 See the man page for details.
 
-Changes by me
+Changes made by me
 ------------
 * changed colors
 * modified lineheight
